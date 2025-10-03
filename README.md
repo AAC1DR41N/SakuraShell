@@ -11,4 +11,4 @@ now is the perfect time to start a new, big project and create my own distro! >w
 
 - This is a veeeeeeery big project and because of school, stress and mental health, this is going to take a shit ton of time...
 - I don't know how much longer it is going to take, but I'll release the first version ASAP once I get the base to work :s
-- Lil tip: I'd reccomend using DankMono Italics as the main font cuz it just looks soooooo good qwq (its paid tho and im broke af so i wont ship it in this distro but uh... if u "find it" somewhere, u should really try it out ;3)
+- Lil tip: I'd recommend using DankMono Italics as the main font cuz it just looks soooooo good qwq (its paid tho and im broke af so i wont ship it in this distro but uh... if u "find it" somewhere, u should really try it out ;3)
